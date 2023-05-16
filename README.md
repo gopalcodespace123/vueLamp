@@ -1,0 +1,2 @@
+# vueLamp
+This is a website which contains the items of a electric company by using javascript there is also a kind of animation of light from a bulb which works on a on-click function and its turn on and off by the button.  
